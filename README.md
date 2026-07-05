@@ -25,6 +25,7 @@ This is the complete study system used to secure **AIR 3 in GATE 2026 (Data Scie
 ## 📖 Table of Contents
 
 - [Why This Exists](#-why-this-exists)
+- [Certificates & Achievements](#-certificates--achievements)
 - [Repository Structure](#-repository-structure)
 - [Subjects Covered](#-subjects-covered)
 - [Interactive Website Features](#-interactive-website-features)
@@ -45,6 +46,81 @@ This is the complete study system used to secure **AIR 3 in GATE 2026 (Data Scie
 Most GATE prep material is either scattered across a dozen YouTube channels, locked behind paid courses, or too shallow to build real intuition. This repository is a single, structured, self-contained system: full derivations, worked PYQs, and revision-ready summaries — organized the way I actually studied for it, not the way a syllabus PDF is organized.
 
 > **No paywalls. No ads. No fluff. Just the notes.**
+
+---
+
+## 🏆 Certificates & Achievements
+
+<div align="center">
+
+*Verified recognitions from GATE 2026 — All India Rank 3 (Data Science & AI) and All India Rank 147 (Computer Science & IT)*
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="Certificates/1.png" width="100%"/>
+<br/><sub><b>GO Classes — Certificate of Achievement</b><br/>AIR 3 (GATE DS&AI) · AIR 147 (GATE CS&IT), 2026</sub>
+</td>
+<td width="50%" align="center">
+<img src="Certificates/1774164568485~2.jpg" width="100%"/>
+<br/><sub><b>Unacademy — Certificate of Achievement</b><br/>Super 30 Group, Mentor: Ankit Doyla</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="Certificates/1774192143736.png" width="100%"/>
+<br/><sub><b>Unacademy — GATE 2026 Results</b><br/>Rank 3, GATE DA</sub>
+</td>
+<td width="50%" align="center">
+<img src="Certificates/1774195006749.png" width="100%"/>
+<br/><sub><b>Unacademy — GATE 2026 Results</b><br/>Rank 147, GATE CS</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="Certificates/1777187301610.png" width="100%"/>
+<br/><sub><b>GO Classes — AIR 3 Topper Card</b><br/>GATE DS&AI 2026, Test Series Enrolled</sub>
+</td>
+<td width="50%" align="center">
+<img src="Certificates/1773919097077.jpg" width="100%"/>
+<br/><sub><b>AIR 3 Toppers — GATE 2026</b><br/>Ankit Sir's Super 30 Learner</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="Certificates/1777190283472.png" width="100%"/>
+<br/><sub><b>Additional Recognition</b><br/>GATE 2026</sub>
+</td>
+<td width="50%" align="center">
+<img src="Certificates/2.png" width="100%"/>
+<br/><sub><b>Additional Recognition</b><br/>GATE 2026</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="Certificates/3.png" width="100%"/>
+<br/><sub><b>Additional Recognition</b><br/>GATE 2026</sub>
+</td>
+<td width="50%" align="center">
+<img src="Certificates/4.png" width="100%"/>
+<br/><sub><b>Additional Recognition</b><br/>GATE 2026</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="Certificates/5.png" width="100%"/>
+<br/><sub><b>Additional Recognition</b><br/>GATE 2026</sub>
+</td>
+<td width="50%" align="center">
+<img src="Certificates/6.png" width="100%"/>
+<br/><sub><b>Additional Recognition</b><br/>GATE 2026</sub>
+</td>
+</tr>
+</table>
+
+*Full-resolution originals live in [`/Certificates`](./Certificates).*
+
+</div>
 
 ---
 
